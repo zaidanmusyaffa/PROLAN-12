@@ -1,0 +1,11 @@
+Tagging Interface adalah salah satu istilah di Java. Ini adalah antarmuka kosong 
+yang diterapkan kelas untuk mengklaim keanggotaan dalam satu set. 
+Misalnya, jika sebuah kelas menerapkan antarmuka Serializable, ia mengklaim 
+dapat serializable - untuk menjadi anggota rangkaian kelas serializable. 
+Interface itu sendiri tidak menyatakan metode; Itu hanya sebuah tag
+Ada masalah dengan TagInterfaces. Hal itu sangat berarti bagi Java VM itu 
+sendiri. VM Java tahu untuk memainkan beberapa "trik" khusus dengan kelas kloning
+atau serializable. TagInterface hanyalah semacam bendera boolean untuk programmer. 
+Itu benar atau salah (instanceof operator). Ini juga menyediakan kompatibilitas tipe 
+dengan interface, namun karena interface tidak mendeklarasikan metode apapun, 
+tidak ada gunanya yang bisa diimplementasikan untuk mendukung interface.
