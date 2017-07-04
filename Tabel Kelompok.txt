@@ -1,0 +1,93 @@
+___________________________________________________________________________________________________________________________
+|                                                                                                                          | 
+|Pertemuan | Materi    |                                         Penjelasan                          | Folder github                                                                                                                          |
+|                                                                                                                          |
+___________________________________________________________________________________________________________________________
+|                                                                                                                          | 
+|1         | Pendahuluan    |     Menjelaskan beberapa sejarah dan terbentuk nya java                   |minggu -1                                                                                                                          |
+|
+|
+|                                                                                                                          |
+___________________________________________________________________________________________________________________________
+|                                                                                                                          | 
+|2         | konsep OO   |     oo adalah suatu pola pikir yang berpikir bahwa komponen merupakan objek   |minggu -2                                                                                                                          |
+|
+|
+|                                                                                                                          |
+___________________________________________________________________________________________________________________________
+|                                                                                                                          | 
+|3         |kelas dan Objek| Kelas merupakan suatu bentuk klasifikasi dari objek objek yang ada di dunia
+			     dan objek adalah komponen yang ada didunia(barang)                           |minggu -3                                                                                                                          |
+|
+|
+|                                                                                                                          |
+___________________________________________________________________________________________________________________________
+|                                                                                                                          | 
+|4         |method,konstruktor ,this dan atribut|method adalah sekumpulan program yang akan di jalankan terdiri
+						 dari beberapa procedure, konstruktor adalah sebuah procedur 
+						 atau aksi-aksi yang di lakukan untuk menjalan kan program
+						 this adalah suatu perintah yang menyatakan pembeda dari suatu
+						 variabel yang ada this tempatkan                              |minggu -4                                                                                                                          |
+|
+|
+|                                                                                                                          |
+___________________________________________________________________________________________________________________________
+|                                                                                                                          | 
+|5         |inheritance|inheritance merupakan sistem java yang memungkinkan untuk menurunkan kelas kepada kelas
+			lain 										       |minggu -5                                                                                                                          |
+|
+|
+|                                                                                                                          |
+___________________________________________________________________________________________________________________________
+
+|                                                                                                                          | 
+|6         |Overiding|untuk merubah method di kelas yang di turunkan                                        |minggu -6                                                                                                                          |
+|
+|
+|                                                                                                                          |
+___________________________________________________________________________________________________________________________
+|                                                                                                                          | 
+|7         |polimorfisme|kemampuan sebuah objek yang mampu untuk memanggil sesuatu yang lain(kelas)       |minggu -7                                                                                                                          |
+|
+|
+|                                                                                                                          |
+___________________________________________________________________________________________________________________________
+|                                                                                                                          | 
+|9         |abstract |abstract method adalah  sebuah method yang tidak memiliki implementasi method      |minggu -9                                                                                                                          |
+|
+|
+|                                                                                                                          |
+___________________________________________________________________________________________________________________________
+|                                                                                                                          | 
+|10         |encapsulation|ekaplulasi adalah proses pembungkusan data atau fungsi dari sebuah kelas       |minggu -10                                                                                                                          |
+|
+|
+|                                                                                                                          |
+___________________________________________________________________________________________________________________________
+|                                                                                                                          | 
+  11        |interface|interface adalah sebuah reference type yang mirip dengan kelas			    |minggu -11                                                                                                                          |
+|
+|
+|                                                                                                                          |
+___________________________________________________________________________________________________________________________
+|                                                                                                                          | 
+|12         |generic class|generic class adalah kelas yang univervsal dalam penentuan paramameter nya dan bebas|minggu -12                                                                                                                          |
+|
+|
+|                                                                                                                          |
+___________________________________________________________________________________________________________________________
+|                                                                                                                          | 
+|13         |generic method|generic method adalah method yang bersifat universal dan umum yang dapat tentukan bebas|minggu-13                                                                                                                          |
+|
+|
+|                                                                                                                          |
+___________________________________________________________________________________________________________________________
+|                                                                                                                          | 
+|15        |packages|package digunakan untuk menghindari penumpukan data dan memudahkan pengguna dalam penyimpanan
+		     package juga di gunakan untuk membungkus beberapa class agar tersusun rapih                  |minggu -15                                                                                                                          |
+|
+|
+|                                                                                                                          |
+___________________________________________________________________________________________________________________________
+
+Muhammad Zaidan Musyaffa Z (10115222)
